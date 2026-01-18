@@ -1,8 +1,6 @@
 # 🚀 MarketIntel Pro
 **Powered by LangGraph + OpenAI**
 
-🌐 **[View Live Application](https://langgraph-market-intel-pro.vercel.app)**
-
 > **Transform competitive research into actionable strategy. Enter a product category, and get a comprehensive competitive analysis with market gaps, feature matrices, and GTM recommendations—powered by AI agents.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -223,8 +221,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-[Live Demo](https://langgraph-market-intel-pro.vercel.app) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
